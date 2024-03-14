@@ -9,7 +9,7 @@ At the fundamental level, I consider myself pretty much an aspiring renaissance 
 A full stack human implies that i've to be a full-stack engineer which i'm always working towards. 
 I believe that creating new tech frontiers and pushing existing ones is how i can contribute to the civilisation for 'd(civilization)/d(ronnie)' to be maximum. 
 
-I've tinkered with pretty much every field, say-
+I've tinkered across disciplines, say-
 - mechanical (built stuff from napkin sketch to protyping using most advanced precision machining processes on the face of the planet imo, additive as well as subtractive); 
 - software (i've always seen software as a tool rather than a standalone stuff, I've hardcoded neural networks from scratch to aid multiple advanced mathematics applications and                     research studies, from a simple asteroid arcade game to a black hole simulation study), 
 - electrical/electronics (I've designed pcbs, soldered components on pcb boards, i still need to build something at microfab level tho)
