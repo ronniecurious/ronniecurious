@@ -25,7 +25,7 @@ i love music (varied genres and languages, tho music is just a specific output o
 i enjoy multiple form of dancing too. 
 i fly planes (in process of my ppl); i ride horses; i love motorbikes (yes, i own a husqvarna!); working on my swimming recently as well. 
 
-### Feel free to ping me for my projects deatils/to collaborate, or just to hangout/chat abt arrow of time of civilization:
+### Feel free to ping me for my projects deatils/to collaborate, or just to chat:
 
 - **Email:** [ronniecurious@proton.me](mailto:ronniecurious@proton.me)
 - **Twitter:** [@ronniecurious](https://twitter.com/ronniecurious)
