@@ -17,7 +17,7 @@ I've tinkered across disciplines, say-
 Most of my works are pretty multidisciplinary, much like courses and departments in my transcripts (Mechanical, Electrical, CS, Physics, Economics and what not!)  
 I think i can learn and do pretty much everything, when i know what i'm gonna build. 
 
-currently working on developing swarm of satellites at my university, my work ranges across multiple teams as per project needs namely Systems, Communications, Grounds and more. 
+currently working on developing swarm of satellites [at my university](https://www.colorado.edu/aerospace/academics/graduates/graduate-projects/2022-2023-projects/space-weather-atmospheric-reconfigurable), my work ranges across multiple teams as per project needs namely Systems, Communications, Grounds and more. 
 my work trajectory is summarised in my resume. 
 
 i enjoy reading and immersing myself in cinema (i would like to make some too) 
