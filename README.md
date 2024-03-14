@@ -34,5 +34,5 @@ i fly planes (in process of my ppl); i ride horses; i love motorbikes (yes, i ow
 
 ### Fun fact(s):
 
-- I have a gold medal in international mathematics olympaid (level 1), i wasn't even aware abt the test i was giving during my highschool.
+- I have a gold medal in international mathematics olympaid (level 1), i wasn't even aware abt the importance of test i was taking during my highschool.
 - I've performed 8 stage dances and 2 live theatre plays. 
